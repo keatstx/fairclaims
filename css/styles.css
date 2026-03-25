@@ -701,6 +701,11 @@ em { font-style: italic; }
   transition: border-color var(--transition);
 }
 
+.form-group input[type="radio"] {
+  width: auto;
+  margin-right: 0.5rem;
+}
+
 .form-group input:focus,
 .form-group select:focus,
 .form-group textarea:focus {
