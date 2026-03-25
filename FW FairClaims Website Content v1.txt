@@ -1,0 +1,2132 @@
+FW: FairClaims Website Content v1
+
+Charles Kwon
+
+​
+Patrick Keating​
+​
+Charles Kwon;​Charles Kwon <ckwonil@gmail.com>​
+ 
+
+ 
+
+Edited
+
+From: Charles Kwon <ckwon@concitor.com>
+Date: March 2, 2026 at 2:00:45 PM CST
+To: Charles Kwon <ckwon@concitor.com>, Charles Kwon <ckwonil@gmail.com>
+Subject: FairClaims Website Content v1
+
+﻿
+
+Here is the complete FairClaims.us website content and layout document, built in the MyGen conversational storytelling style — a narrative-driven, scroll-based experience that leads visitors from emotional hook through data through solution through action.
+
+ 
+
+ 
+
+ 
+
+## What You're Getting
+
+ 
+
+The document covers **10 full pages** with production-ready narrative content:
+
+ 
+
+### Homepage — The Conversational Story (12 sections)
+
+The single-scroll homepage follows the MyGen rhythm of **hook → problem → insight → solution → CTA**, with each section designed to keep visitors scrolling:
+
+ 
+
+1. **The Hook** — Opens with the mother's appendectomy story, grounding the entire site in a real-world decision: *pay the hospital or pay the rent*
+
+2. **The Problem ("The Gap")** — Four stat blocks cascade the crisis: the 30-year life expectancy gap between Streeterville and Englewood, $220B in national medical debt, 36% of households carrying medical debt (48% for Black families), and the 58% broadband adoption rate in Englewood[1][2][3][4][5][6]
+
+3. **The Insight ("Hidden in Plain Sight")** — Reveals that most of this money is already owed to families: Illinois charity care law, the 80.7% prior auth overturn rate, and the state's $1.1B debt relief success[7][8][9][10][11]
+
+4. **The Solution** — Introduces the Five Pillars with clickable cards
+
+5. **How It Works** — Five-step journey from "Tell Us What's Happening" to "You Claim What's Yours"
+
+6. **The Vision ("Equity Jiu-Jitsu")** — The moonshot framing, Robert Smith comparison, $2B drain → $10-100B recapture
+
+7. **The Ecosystem** — Hub-and-spoke model, ThriveAI, CEN teams, Guild 2.0
+
+8. **Latimer Leaders** — Lewis Latimer's history mapped onto the youth development pathway[12][13]
+
+9. **Love and Equity** — Community organizing roots, federated model
+
+10. **The Math** — Impact table across all five pillars
+
+11. **Final CTA** — *"Nobody is coming to save you. But we're here to fight with you."*
+
+ 
+
+### Five Pillar Deep-Dive Pages
+
+Each pillar page follows the same structure — **headline hook → "Did You Know" data section → "How FairClaims Helps" process → CTA** — with real statistics woven in:
+
+ 
+
+- **Charity Care** — Built around Illinois law requiring free care under 200% FPL and the Cook County finding that most forgiven debt belonged to people who should have qualified for free care[14][15]
+
+- **Medical Debt** — Anchored in the 66.5% bankruptcy figure and Illinois' $10M → $1.1B debt erasure[11][16]
+
+- **Prior Authorization** — Uses the AMA survey data: 94% delays, 82% abandonment, 29% serious adverse events[17][18]
+
+- **Workplace Injury** — 13-25% first-round denial rates, employer retaliation dynamics[19][20]
+
+- **Toxic Exposure** — Camp Lejeune's 410,000+ claims as scale reference, PFAS contamination, Chicago's industrial corridor exposure[21]
+
+ 
+
+### Supporting Pages
+
+- **Our Model** — Full ThriveAI + CKL + Guild 2.0 ecosystem explanation, hub-and-spoke diagram spec, Latimer Plan operationalization
+
+- **Latimer Leaders** — Youth program detail with recruitment pipeline from Treatment Not Trauma and Summer Jobs
+
+- **Stories** — Five template case studies (one per pillar) ready to populate with real testimonials
+
+- **Get Started** — Simple 5-field intake form designed for mobile-first use
+
+ 
+
+### Design & Tone Specifications
+
+The document closes with production notes covering voice/tone guidelines, visual direction (deep navy + warm gold palette), typography recommendations, mobile-first principles (critical given the 30% mobile-only access on the South/West Side), and accessibility requirements including Spanish translation and 6th-8th grade reading level targeting.[22]
+
+ 
+
+## Key Narrative Choices
+
+ 
+
+The entire site is built around three structural decisions that mirror what works in the MyGen model:
+
+ 
+
+- **Story first, product second** — The homepage doesn't mention "platform" or "technology" until section 4. It leads with a mother's impossible choice, then reveals the systemic crisis, then shows the hidden opportunity, and only *then* introduces FairClaims as the answer.
+
+- **Every claim is cited** — Rather than vague assertions, every stat on the site traces to verifiable sources: KFF, AMA, NYU School of Medicine, Illinois HFS, Census data. This builds the credibility that converts visitors in advocacy contexts.
+
+- **"Already owed to you" framing** — The site deliberately reframes medical financial advocacy from charity ("we'll help you") to equity ("this is already yours"). That framing — *the system isn't broken, it's working exactly as designed; we're here to redesign who it works for* — is the emotional engine of the entire narrative.
+
+ 
+
+Sources
+
+[1] One City. Two Neighborhoods. A 30-Year Gap in Life Expectancy. https://www.nytimes.com/interactive/2020/09/05/opinion/inequality-life-expectancy.html
+
+[2] Chicago's lifespan gap: Streeterville residents live to 90. Englewood ... https://www.chicagotribune.com/2019/06/06/chicagos-lifespan-gap-streeterville-residents-live-to-90-englewood-residents-die-at-60-study-finds-its-the-largest-divide-in-the-us/
+
+[3] Medical debt and collections in the United States - PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC12394938/
+
+[4] The burden of medical debt in the United States https://www.healthsystemtracker.org/brief/the-burden-of-medical-debt-in-the-united-states/
+
+[5] [PDF] Internet Inequity in Chicago: Adoption, Affordability, and Availability https://sites.cs.ucsb.edu/~arpitgupta/pdfs/2022_tprc_chicago_digital_divide-submitted.pdf
+
+[6] South, West Sides have lowest rates of households with internet in ... https://abc7chicago.com/post/low-income-high-speed-internet-affordable-connectivity-program-comcast-free-for/11832284/
+
+[7] Hospital Charity Care: How It Works and Why It Matters - KFF https://www.kff.org/health-costs/hospital-charity-care-how-it-works-and-why-it-matters/
+
+[8] Medicare Advantage Insurers Made Nearly 53 Million Prior ... - KFF https://www.kff.org/medicare/medicare-advantage-insurers-made-nearly-53-million-prior-authorization-determinations-in-2024/
+
+[9] Financial Assistance | Illinois Health and Hospital Association https://www.team-iha.org/finance/charity-care-financial-assistance/required-changes-to-hospital-financial-assistance/
+
+[10] Illinois erases $1.1B in medical debt for more than 500K residents https://www.fox32chicago.com/news/illinois-erases-1-1b-medical-debt-more-than-500k-residents
+
+[11] How Illinois Turned $10 Million Into $1.1 Billion in Medical Debt Relief https://www.governing.com/finance/how-illinois-turned-10-million-into-1-1-billion-in-medical-debt-relief
+
+[12] Lewis Howard Latimer - Wikipedia https://en.wikipedia.org/wiki/Lewis_Howard_Latimer
+
+[13] Lewis Howard Latimer: Biography, Inventor, Draftsman https://www.biography.com/inventors/lewis-howard-latimer
+
+[14] Cook County Medical Debt Help Comes Too Late - South Side Weekly https://southsideweekly.com/cook-county-medical-debt-help-comes-too-late/
+
+[15] Cook County weighs limitations of its medical debt relief initiative https://abc7chicago.com/post/cook-county-illinois-weighs-limitations-medical-debt-relief-initiative/17378175/
+
+[16] Medical Bankruptcies by Country 2026 - World Population Review https://worldpopulationreview.com/country-rankings/medical-bankruptcies-by-country
+
+[17] How AI is leading to more prior authorization denials https://www.ama-assn.org/practice-management/prior-authorization/how-ai-leading-more-prior-authorization-denials
+
+[18] Physicians Worry That AI Increases Prior Authorization ... https://www.hematologyadvisor.com/news/ai-prior-authorization-denials/
+
+[19] How Many Workers' Compensation Claims Are Denied the First Time? https://www.gattilaw.com/blog/how-many-workers-compensation-claims-are-denied-the-first-time/
+
+[20] How Many Workers' Compensation Claims Are Denied Each Year? https://www.farrin.com/blog/how-many-workers-compensation-claims-are-denied-each-year/
+
+[21] Camp Lejeune Water Contamination Lawsuit (November 2025 ... https://www.lawsuitlegalnews.com/camp-lejeune-water-contamination-lawsuit/
+
+[22] Utility Partnership to Expand Chicago Broadband Service https://www.govtech.com/network/utility-partnership-to-expand-chicago-broadband-service
+
+[23] Gen Mobile | Affordable Prepaid Phone Plans and Cell Phones https://www.genmobile.com
+
+[24] AI-Powered Longevity: Can Technology Really Add Years to Your ... https://finance.yahoo.com/news/ai-powered-longevity-technology-really-163000866.html
+
+[25] [PDF] TERMS OF USE - mygenlife.com.my https://www.mygenlife.com.my/resource/Terms_of_Use_generali
+
+[26] Avio Health Launches World's First Functional Medicine LLM for ... https://www.prnewswire.com/news-releases/avio-health-launches-worlds-first-functional-medicine-llm-for-emagene-life-transforming-personalized-healthcare-302493060.html
+
+[27] MyGenerali Customer Portal - Generali Malaysia https://www.generali.com.my/mygenerali
+
+[28] AI-Powered Longevity: Can Technology Really Add Years to Your ... https://pinionnewswire.com/ai-powered-longevity-can-technology-really-add-years-to-your-life/
+
+[29] Life Insurance | Generations FCU https://www.mygenfcu.org/investments/insurance/
+
+[30] MyGenBio https://mygenbio.com/en
+
+[31] Apply for Free Government Phone | Gen Mobile Lifeline https://www.genmobile.com/pages/lifeline-program
+
+[32] GenAI Healthcare: AI Healthcare Platform for Preventive Care https://www.genaihealth.care
+
+[33] MyGen Planning https://www.mygenplanning.com
+
+[34] Khalid AI Amin: Transforming Lives with Innovative Healthcare and ... https://apacentrepreneur.com/khalid-ai-amin-transforming-lives-with-innovative-healthcare-and-lifestyle-solutions/
+
+[35] Magenfamily https://magenfamily.com
+
+[36] Transform Provider Lifecycle Management | Newgen Software https://www.youtube.com/watch?v=YP__kA5DjOQ
+
+[37] My NatGen Policy https://mynatgenpolicy.com
+
+[38] Healthcare Insights: How Medical Debt Is Crushing 100 Million ... https://www.ilr.cornell.edu/scheinman-institute/blog/john-august-healthcare/healthcare-insights-how-medical-debt-crushing-100-million-americans
+
+[39] Financial Assistance | Illinois Health and Hospital Association https://www.team-iha.org/finance/charity-care-financial-assistance/
+
+[40] Chicago Has the Largest Life Expectancy Gap in the Country. Why? https://news.wttw.com/2019/06/06/chicago-has-largest-life-expectancy-gap-country-why
+
+[41] State Protections Against Medical Debt - Commonwealth Fund https://www.commonwealthfund.org/publications/fund-reports/2025/jul/state-protections-against-medical-debt-look-policies-across-us
+
+[42] Financial Assistance - UChicago Medicine https://www.uchicagomedicine.org/patients-visitors/patient-information/billing/financial-assistance
+
+[43] The Burden of Medical Debt in the United States - KFF https://www.kff.org/health-costs/the-burden-of-medical-debt-in-the-united-states/
+
+[44] Financial Assistance | Northwestern Medicine https://www.nm.org/patients-and-visitors/billing-and-insurance/financial-assistance
+
+[45] The challenge to cut Chicago's 30-year life expectancy gap in half ... https://www.cityhealthdashboard.com/blog-media/1137
+
+[46] Healthcare debts in the United States: a silent fight - PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC11918610/
+
+[47] Medical Debt and Personal Bankruptcy in 2025: What to Know https://www.kelleylawoffice.com/medical-debt-and-personal-bankruptcy-in-2025-what-to-know/
+
+[48] Financial Assistance | UChicago Medicine AdventHealth https://www.uchicagomedicineadventhealth.org/financial-assistance
+
+[49] Americans' Challenges with Health Care Costs - KFF https://www.kff.org/health-costs/americans-challenges-with-health-care-costs/
+
+[50] Health Care Costs and Affordability - KFF https://www.kff.org/health-costs/health-policy-101-health-care-costs-and-affordability/?entry=table-of-contents-introduction
+
+[51] Lewis Howard Latimer: Inventor & Patent Draftsman – Fall River ... https://fallriverhistorical.org/online-exhibits/fall-river-through-the-eyes-of-historians/lewis-howard-latimer-inventor-and-patent-draftsman/
+
+[52] Prior Authorizations and the Adverse Impact on Continuity ... https://www.ajmc.com/view/prior-authorizations-and-the-adverse-impact-on-continuity-of-care
+
+[53] Lewis Latimer - National Inventors Hall of Fame® https://www.invent.org/inductees/lewis-latimer
+
+[54] Innovative Lives: Lewis Latimer (1848-1928): Renaissance Man https://invention.si.edu/invention-stories/innovative-lives-lewis-latimer-1848-1928-renaissance-man
+
+[55] Stuck in prior authorization, some patients run out of time or ... https://www.nbcnews.com/health/health-care/prior-authorization-insurance-denials-patients-treatment-rcna212068
+
+[56] Financial Health Pulse® 2025 Chicago Trends Report https://www.cct.org/research-and-reports/financial-health-pulse-2025-chicago-trends-report/
+
+[57] Camp Lejeune Lawsuit | February 2026 Settlement Update https://www.lawsuit-information-center.com/camp-lejeune-water-lawsuit.html
+
+[58] Dealing with hospital bills | Illinois Legal Aid Online https://www.illinoislegalaid.org/legal-information/dealing-hospital-bills
+
+[59] [PDF] Illinois: Discounts, But Not for Everyone. New Policies Require More ... https://communitycatalyst.org/wp-content/uploads/2024/05/Illinois-State-Spotlight-Final-May-2024.pdf
+
+[60] The Uneven Distribution of Medically Underserved Areas in Chicago https://pmc.ncbi.nlm.nih.gov/articles/PMC8175250/
+
+[61] Camp Lejeune Lawsuit - Meirowitz & Wasserberg, LLP https://www.samndan.com/mass-torts/camp-lejeune-water-contamination/lawsuit/
+
+[62] Medical Debt Relief Pilot Program https://hfs.illinois.gov/info/medicaldebtrelief.html
+
+[63] [PDF] Transformation Data & Community Needs Report CHICAGO-WEST ... https://hfs.illinois.gov/content/dam/soi/en/web/hfs/sitecollectiondocuments/transformationdataandcommunityneedsreportdecember2022westchicago.pdf
+
+[64] Camp Lejeune Water Contamination Lawsuit - May 2025 Update https://www.lanierlawfirm.com/toxic-torts/camp-lejeune-water-contamination/lawsuit/
+
+[65] Firefighting Foam AFFF Lawsuit (December 2025) https://www.dolmanlaw.com/afff-lawsuits-everything-to-know/
+
+[66] Robert F. Smith - Student Freedom Initiative https://studentfreedominitiative.org/team/robert-f-smith/
+
+[67] The History of the Alinsky Organizing Model and Its Practice within ... https://belonging.berkeley.edu/bridging-power-papers/alinsky-labor
+
+[68] Student Freedom Initiative - Increasing Access to Education without ... https://studentfreedominitiative.org
+
+[69] Post-Alinsky Community Organizing - The Citizens Handbook https://citizenshandbook.org/postalinsky.html
+
+[70] Employer reasons for failing to report eligible workers' compensation ... https://pmc.ncbi.nlm.nih.gov/articles/PMC5069593/
+
+[71] Robert F. Smith: Official Website https://robertsmith.com
+
+[72] Building Organization Through Movements: A Defense of Alinsky https://dissentmagazine.org/blog/building-organization-through-movements-a-defense-of-alinsky/
+
+[73] Robert F. Smith - Vista Equity Partners https://www.vistaequitypartners.com/about/team/robert-f-smith/
+
+[74] Saul Alinsky - Wikipedia https://en.wikipedia.org/wiki/Saul_Alinsky
+
+[75] Wisconsin Worker's Compensation Dashboard https://www.dhs.wisconsin.gov/occupational-health/workers-compensation-dashboard.htm
+
+[76] Robert F. Smith Philanthropy: Official Website https://robertfsmith.org
+
+[77] The Comic Vision of Saul Alinsky's Community Organizing Tradition http://www.asjournal.org/66-2019/the-comic-vision-of-saul-alinskys-community-organizing-tradition/
+
+[78] Reasons Workers' Compensation Claims are Denied https://www.all-injuries.com/blog/reasons-workers-compensation-claims-are-denied/
+
+[79] Digital Divide: Data Highlights Internet Inequities in Chicago | DSI https://datascience.uchicago.edu/news/digital-divide-data-highlights-internet-inequities-in-chicago/
+
+[80] Joint Legislative Public Hearing on 2017-2018 Executive Budget ... https://www.nysenate.gov/newsroom/articles/2017/joint-legislative-public-hearing-2017-2018-executive-budget-proposal-topic-1
+
+[81] Today, I'm proud to announce that we've erased over $1.1 billion in ... https://www.facebook.com/GovPritzker/posts/today-im-proud-to-announce-that-weve-erased-over-11-billion-in-medical-debt-for-/1461578965325158/
+
+[82] [PDF] Selected Subjects - GovInfo https://www.govinfo.gov/content/pkg/FR-1985-06-19/pdf/FR-1985-06-19.pdf
+
+[83] [PDF] New DBA Date Desc - San Francisco Open Data https://data.sfgov.org/api/views/rvgr-my7i/rows.pdf?app_token=U29jcmF0YS0td2VraWNrYXNz0&490ZyuaU4=7YJ1i
+
+[84] Endangered Species Reference. - epa nepis https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=940071PA.TXT
+
+[85] Illinois Addresses the Digital Divide - Benton Institute https://www.benton.org/blog/illinois-addresses-digital-divide
+
+[86] [PDF] MA College Catalog 2023-2024 https://www.swc.edu/wp-content/uploads/2023-24-Catalog-3.pdf
+
+ 
+
++++++
+
+ 
+
+# FairClaims.us — Full Website Content & Layout
+
+ 
+
+> **Design Direction:** Conversational, story-driven single-scroll homepage (MyGen-style) with supporting inner pages. Mobile-first. Warm, empowering tone. Community-centered photography. Bold headlines with short, punchy body copy. Each section has a clear emotional hook → data → solution → CTA rhythm.
+
+ 
+
+---
+
+ 
+
+## SITE ARCHITECTURE (Sitemap)
+
+ 
+
+```
+
+HOME (single-scroll conversational page — the "story")
+
+├── HOW IT WORKS (/how-it-works)
+
+├── FIVE PILLARS (expandable from home or standalone pages)
+
+│   ├── Charity Care Relief (/charity-care)
+
+│   ├── Medical Debt Clearing (/medical-debt)
+
+│   ├── Prior Authorization Resilience (/prior-authorization)
+
+│   ├── Workplace Injury Max Claim (/workplace-injury)
+
+│   └── Toxic Exposure Max Claim (/toxic-exposure)
+
+├── OUR MODEL (/our-model — ThriveAI + CEN + Guild 2.0)
+
+├── LATIMER LEADERS (/latimer-leaders — youth program)
+
+├── THE MATH (/the-math — impact numbers)
+
+├── ABOUT (/about — team, partners, mission)
+
+├── STORIES (/stories — community testimonials)
+
+└── GET STARTED (/get-started — intake form / opt-in)
+
+```
+
+ 
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 1: HOMEPAGE — THE CONVERSATIONAL STORY
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+## SECTION 1: THE HOOK (Hero)
+
+ 
+
+**Layout:** Full-bleed background image — a South Side Chicago street with families, warm golden-hour light. Semi-transparent overlay. Large white text centered.
+
+ 
+
+---
+
+ 
+
+### Headline:
+
+# She saved her daughter's life. Then a $15,000 bill arrived.
+
+ 
+
+### Subhead:
+
+A mother on Chicago's South Side rushed her daughter to the ER for an emergency appendectomy. The surgery took 45 minutes. The debt will take years.
+
+ 
+
+**Pay the hospital — or pay the rent.**
+
+ 
+
+No family should have to make that choice.
+
+ 
+
+**[I Need Help Now →]** *(primary CTA button)*
+
+**[Learn How It Works →]** *(secondary text link)*
+
+ 
+
+---
+
+ 
+
+## SECTION 2: THE PROBLEM — "The Gap"
+
+ 
+
+**Layout:** Split screen. Left: stat card with large number. Right: short paragraph. Alternating left/right for each stat. Dark background with accent color highlights on numbers.
+
+ 
+
+---
+
+ 
+
+### Small eyebrow text:
+
+THE NUMBERS NO ONE IS TALKING ABOUT
+
+ 
+
+### Headline:
+
+# 5-9 miles. 20 years.
+
+ 
+
+A child born in the loop can expect to live to **87**. Five miles west in West Garfield — **66**.  Nine miles south in Englewood — **67**. That's the largest life expectancy gap of any city in America.
+
+ 
+
+This isn't a health problem. It's a wealth problem.
+
+ 
+
+---
+
+ 
+
+**Stat Block 1:**
+
+### $220 Billion
+
+That's how much Americans owe in medical debt. More than credit card debt in many communities. It's the #1 cause of bankruptcy — responsible for **66.5% of all filings** — even for families *with* insurance.
+
+ 
+
+---
+
+ 
+
+**Stat Block 2:**
+
+### 36%
+
+More than **one in three** U.S. households carry medical debt right now. For Black families, it's nearly **one in two**.
+
+ 
+
+---
+
+ 
+
+**Stat Block 3:**
+
+### $2 Billion
+
+The estimated amount systematically drained from Chicago's South and West Side communities *every year* through medical financial exploitation — unclaimed charity care, predatory debt collection, denied authorizations, and lost injury claims.
+
+ 
+
+---
+
+ 
+
+**Stat Block 4:**
+
+### 79-71%
+
+The home internet adoption rate in Englewood and West Garfield — compared to **98%** in the Loop. When you can't get online, you can't find the help that's already out there.
+
+ 
+
+---
+
+ 
+
+### Closing line of this section:
+
+**This is the Digital Desert. The Debt Desert. The Death Gap.**
+
+And it's 25 neighborhoods wide.
+
+ 
+
+---
+
+ 
+
+## SECTION 3: THE INSIGHT — "Hidden in Plain Sight"
+
+ 
+
+**Layout:** Light background. Centered text block. Think "letter to the reader" — intimate, conversational.
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+WHAT WE DISCOVERED
+
+ 
+
+### Headline:
+
+# Most of this money is already available to you.
+
+ 
+
+Here's what most residents don’t knows:
+
+ 
+
+→ **Illinois law requires hospitals** to provide free care if your family income is under 200% of the federal poverty level — and discounted care above that. Most qualifying families never apply. Most hospitals never tell them.
+
+ 
+
+→ **80% of denied prior authorizations are overturned on appeal.** But only 11.5% of patients ever appeal. Insurers are betting you'll give up.
+
+ 
+
+→ **Workers' compensation claims are denied 13–25% of the time on the first try and significant percentage of “exclusive remedy” workplace compensations claims have access for up to 10X more compensation** — often on technicalities or lack of disclosure. Employers and insurers count on you not knowing your rights.
+
+ 
+
+→ **Toxic exposure claims** — from contaminated water, toxic products to PFAS "forever chemicals" — represent billions in potential compensation. Families in industrial corridors on the South and West Side are disproportionately affected and dramatically underrepresented.
+
+ 
+
+→ In February 2026, Illinois announced it had erased **$1.1 billion in medical debt** for 500,000+ residents using just $10 million in state funds. Every dollar spent cleared $100 in debt. That's what's possible when someone fights for you.
+
+ 
+
+**The system isn't broken. It's working exactly as designed.**
+
+*We're here to redesign who it works for.*
+
+ 
+
+---
+
+ 
+
+## SECTION 4: THE SOLUTION — "Introducing FairClaims"
+
+ 
+
+**Layout:** Brand-color gradient background. Logo animation. Clean, bold typography. Five icon cards in a horizontal scroll (mobile) or row (desktop).
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+OUR ANSWER
+
+ 
+
+### Headline:
+
+# FairClaims — Medical Financial Freedom for Every Family
+
+ 
+
+FairClaims is a **federated community advocacy platform** that connects families on Chicago's South and West Side with the resources, knowledge, and expert support to claim what's rightfully theirs — across five critical areas of medical financial relief.
+
+ 
+
+We call it **Medical Financial Freedom**.
+
+ 
+
+---
+
+ 
+
+### THE FIVE PILLARS
+
+ 
+
+*(Each pillar is a clickable card with icon, headline, one-line description, and "Learn More →" link)*
+
+ 
+
+---
+
+ 
+
+**🏥 1. Charity Care Relief**
+
+*You may already qualify for free hospital care. We help you claim it.*
+
+Most Illinois hospitals are legally required to provide free or discounted care to qualifying families. We help you find out if you qualify, complete the paperwork, and hold hospitals accountable.
+
+**[Learn More →]**
+
+ 
+
+---
+
+ 
+
+**💳 2. Medical Debt Clearing**
+
+*That bill might not be yours to pay. Let's find out.*
+
+From debt verification to negotiation to connecting you with relief programs, we fight to reduce or eliminate medical debt — and stop the collectors.
+
+**[Learn More →]**
+
+ 
+
+---
+
+ 
+
+**⏳ 3. Prior Authorization Resilience**
+
+*Your doctor said yes. Your insurer said no. We say: appeal.*
+
+80% of denied prior authorizations are overturned when challenged. We help you navigate the appeal process, document your case, and get the care your doctor ordered.
+
+**[Learn More →]**
+
+ 
+
+---
+
+ 
+
+**🔧 4. Workplace Injury Max Claim**
+
+*You got hurt on the job. You deserve every dollar owed.*
+
+Denied claims, lowball settlements, and employer intimidation are epidemic. We connect you with vetted attorneys and advocates who know how to maximize your workers' compensation claim.
+
+**[Learn More →]**
+
+ 
+
+---
+
+ 
+
+**☣️ 5. Toxic Exposure Max Claim**
+
+*If your neighborhood made you sick, someone owes you answers — and compensation.*
+
+From lead paint to contaminated water to industrial "forever chemicals," families in environmental justice communities are owed billions. We connect you to trusted legal advocates to pursue your claim.
+
+**[Learn More →]**
+
+ 
+
+---
+
+ 
+
+### Closing line:
+
+**You don't need a lawyer on retainer. You need a neighbor who knows the system.**
+
+That's FairClaims.
+
+ 
+
+---
+
+ 
+
+## SECTION 5: THE MODEL — "How It Works"
+
+ 
+
+**Layout:** Step-by-step visual — a horizontal journey map with numbered nodes. Below each node, a short description. On mobile, this becomes a vertical timeline.
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+YOUR JOURNEY
+
+ 
+
+### Headline:
+
+# From overwhelmed to empowered — in five steps.
+
+ 
+
+---
+
+ 
+
+**Step 1: Tell Us What's Happening**
+
+Start with a simple conversation. No forms. No jargon. Just tell us what you're facing — a surprise bill, a denied claim, a debt collector calling.
+
+*(Icon: speech bubble)*
+
+ 
+
+**Step 2: We Find Your Options**
+
+Our advocacy team reviews your situation and identifies which of the five FairClaims pillars can help — often more than one. Many families qualify for relief they never knew existed.
+
+*(Icon: magnifying glass / compass)*
+
+ 
+
+**Step 3: Your FairClaims Navigator Takes the Lead**
+
+You're matched with a Community Equity Navigator (CEN) team — a trusted local leader paired with a trained digital advocate — right in your neighborhood.
+
+*(Icon: two people / handshake)*
+
+ 
+
+**Step 4: Expert Advocacy, No Upfront Cost**
+
+Your Navigator connects you to vetted legal, financial, and healthcare advocates from the FairClaims Guild network. They work on your behalf — not the hospital's, not the insurer's.
+
+*(Icon: shield / gavel)*
+
+ 
+
+**Step 5: You Claim What's Yours**
+
+Charity care approved. Debt reduced or eliminated. Authorization overturned. Claim settled. Your financial future protected.
+
+*(Icon: key / open door)*
+
+ 
+
+---
+
+ 
+
+**[Get Started — It's Free →]** *(CTA button)*
+
+ 
+
+---
+
+ 
+
+## SECTION 6: THE VISION — "Equity Jiu-Jitsu"
+
+ 
+
+**Layout:** Dark, cinematic section. A bold quote pulled out large. Supporting text below. Optional: embedded short video placeholder.
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+THE MOONSHOT
+
+ 
+
+### Headline:
+
+# Turning $2 billion in losses into $10–100 billion in community wealth.
+
+ 
+
+Every year, medical financial exploitation and spend outside of the local communities drains an estimated **$2 billion** from Chicago's South and West Side — and leaves another **$30 billion in economic opportunity** on the table.
+
+ 
+
+What if we redirected that money back to the families it belongs to?
+
+ 
+
+**We call it Equity Jiu-Jitsu** — using the system's own weight against it. The same laws, programs, and mechanisms that currently benefit those who can afford an advocate — charity care statutes, appeal rights, tort claims — are available to *every* family. They just need someone in their corner.
+
+ 
+
+FairClaims isn't charity. It's **claiming what's already yours**.
+
+ 
+
+---
+
+ 
+
+### Pull Quote:
+
+> *"Robert Smith's Morehouse pledge showed what venture philanthropy can do for student debt. FairClaims is the South and West Side's answer for medical debt — and it doesn't require a billionaire. It requires a system."*
+
+ 
+
+---
+
+ 
+
+## SECTION 7: THE ECOSYSTEM — "Powered by ThriveAI"
+
+ 
+
+**Layout:** Ecosystem diagram — hub and spoke visual. ThriveAI at center, with FairClaims, CEN Teams, Guild 2.0, community hubs radiating out. Clean, modern infographic style.
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+THE ENGINE
+
+ 
+
+### Headline:
+
+# A "Smart" Hub-and-Spoke Model — in 25 Neighborhoods (Vision)
+
+ 
+
+FairClaims won’t operate from a downtown office. It will live where you live.
+
+ 
+
+Powered by the **Chicago Urban League's ThriveAI Ecosystem**, FairClaims deploys **Community Equity Navigator (CEN) teams** into each of the 25 lowest-income neighborhoods on Chicago's South and West Side.
+
+ 
+
+---
+
+ 
+
+**Each CEN Team includes:**
+
+ 
+
+🧭 **A Trusted Local Leader** — Someone from your community who understands the culture, the challenges, and the people. A mature advocate who's already earned trust.
+
+ 
+
+💻 **A Youth Digital Native** — A trained young leader (recruited from Chicago's summer youth programs) who can navigate the technology, the data, and the digital tools that power modern advocacy.
+
+ 
+
+Together, they form **your neighborhood's medical financial first responders**.
+
+ 
+
+---
+
+ 
+
+**The ecosystem behind them:**
+
+ 
+
+- **ThriveAI Wellness App** — Your personal dashboard for tracking cases, understanding your rights, and accessing resources 24/7.
+
+- **FairClaims Technology Platform (CKL)** — The AI-augmented case management engine that powers advocacy at scale across all five pillars.
+
+- **FairClaims Guild 2.0** — A cooperative network of vetted attorneys, financial advocates, and healthcare navigators who've agreed to serve FairClaims families at fair, transparent rates.
+
+- **Veripedia Knowledge Oasis** — A rich, searchable library of guides, videos, and FAQs — built so every family can understand their rights, their options, and their next step.
+
+ 
+
+---
+
+ 
+
+### Closing line:
+
+**An complementary program was proposed to the City of Chicago in the SB Tech Enablement Grant as the blueprint for equitable digital infrastructure.**
+
+ 
+
+It’s a vison for an ecosystem platform that takes a systems approach to closing gaps in health, wealth and wellbeing.
+
+ 
+
+---
+
+ 
+
+## SECTION 8: THE LEGACY — "Latimer Leaders"
+
+ 
+
+**Layout:** Warm, aspirational section. Historical photo of Lewis Latimer alongside modern photo of young Chicago leaders. Gold/amber accent tones.
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+THE NEXT GENERATION
+
+ 
+
+### Headline:
+
+# Creating the Next Lewis Latimers
+
+ 
+
+In 1876, a young Black draftsman named **Lewis Howard Latimer** drew the patent illustrations that helped Alexander Graham Bell receive the patent for the telephone. He went on to work alongside Thomas Edison, translate technical data across languages, and invent a process that made electric lighting affordable for ordinary Americans.
+
+ 
+
+Latimer wasn't born into opportunity. **He created it through mastery.**
+
+ 
+
+---
+
+ 
+
+### Subhead:
+
+**The Latimer Leaders Program**
+
+ 
+
+FairClaims' youth development pathway transforms young people from Chicago's South and West Side into **Medical Financial "Draftsmen"** — skilled digital advocates who can navigate complex systems, decode bureaucratic processes, and help their neighbors claim what's theirs.
+
+ 
+
+Through the ThriveAI Community Equity Navigator (CEN) program, Latimer Leaders:
+
+ 
+
+- **Learn** the five pillars of medical financial advocacy — charity care law, debt negotiation, prior authorization appeals, injury claims, and toxic tort processes.
+
+- **Train** on AI-augmented tools that make expert-level advocacy accessible to community members.
+
+- **Serve** as the digital-native half of each neighborhood CEN team, paired with a mature community leader.
+
+- **Earn** meaningful income and professional skills through summer and year-round employment.
+
+- **Rise** into leadership roles within the FairClaims Guild — becoming advocates, navigators, and future community leaders.
+
+ 
+
+---
+
+ 
+
+### Aligned Programs:
+
+This pathway integrates with existing community infrastructure:
+
+ 
+
+- **Treatment Not Trauma** — meeting young people where they are, with support instead of surveillance.
+
+- **Chicago Summer Jobs Program** — recruiting Latimer Leader candidates directly from the city's youth employment pipeline.
+
+- **ARPA Funding Extensions** — building on the community investment infrastructure already in motion.
+
+ 
+
+---
+
+ 
+
+### Pull Quote:
+
+> *"Latimer didn't just draw the blueprints for someone else's invention. He became indispensable. That's what we're building — a generation of young advocates who are too skilled, too knowledgeable, and too connected to be left behind."*
+
+ 
+
+---
+
+ 
+
+**[Become a Latimer Leader →]**
+
+ 
+
+---
+
+ 
+
+## SECTION 9: THE BRIDGE — "Love and Equity"
+
+ 
+
+**Layout:** Community-focused section. Photo collage of neighborhood organizing, church meetings, community health fairs. Warm color palette.
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+OUR FOUNDATION
+
+ 
+
+### Headline:
+
+# Love and Equity — Organizing for a New Era
+
+ 
+
+The tradition of community organizing on Chicago's South and West Side runs deep — from the Back of the Yards to the present day.
+
+ 
+
+FairClaims is built on that tradition. Not the old model of fighting against power from the outside — but a new model of **building power from within**.
+
+ 
+
+We partner with organizers, faith leaders, block clubs, and existing community programs to embed medical financial advocacy into the infrastructure that already exists. We don't replace what's working. We amplify it.
+
+ 
+
+---
+
+ 
+
+**What makes FairClaims different:**
+
+ 
+
+- **Federated, not centralized** — Each neighborhood hub operates with local leadership, local knowledge, and local trust. The platform connects them. The community runs them.
+
+- **Advocacy, not charity** — We don't give families a handout. We give them a navigator, a network, and the knowledge to claim what's theirs.
+
+- **Digital + Human** — Technology handles the complexity. People handle the trust. Together, they bridge the digital divide and the debt divide at the same time.
+
+ 
+
+---
+
+ 
+
+### Closing line:
+
+**When you organize around love — love for neighbors, for families, for the next generation — equity follows.**
+
+ 
+
+---
+
+ 
+
+## SECTION 10: THE IMPACT — "The Math"
+
+ 
+
+**Layout:** Bold number blocks — large numerals with supporting context. Alternating color blocks. Think annual report meets movement manifesto.
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+WHAT'S POSSIBLE
+
+ 
+
+### Headline:
+
+# The Math on Medical Financial Freedom
+
+ 
+
+---
+
+ 
+
+| Metric | The Reality Today | The FairClaims Opportunity |
+
+|---|---|---|
+
+| **Charity Care Unclaimed** | Hundreds of millions in free care goes unclaimed annually in Cook County because qualifying families never apply | Every eligible family connected to free and discounted care they're owed under Illinois law |
+
+| **Medical Debt** | Illinois alone has erased $1.1B with just $10M in funding — but millions more remain buried | Systematic identification, verification, and clearing of medical debt across 25 neighborhoods |
+
+| **Prior Auth Denials** | 80% of denials are overturned on appeal — but only 11.5% of patients ever appeal | Every denial challenged. Every appeal documented. Every family supported through the process |
+
+| **Workplace Injury Claims** | 13–25% of claims denied on first attempt. Most workers don't appeal or hire an attorney | Vetted legal advocates. Maximized claims. No family left undercompensated |
+
+| **Toxic Exposure Claims** | Billions available in mass tort and environmental justice claims — South and West Side families dramatically underrepresented | Connected to trusted Guild attorneys at fair, transparent rates |
+
+ 
+
+---
+
+ 
+
+### The Moonshot Number:
+
+# $10–100 Billion/Year
+
+That's the estimated annual impact when Chicago's South and West Side families claim medical financial freedom across all five pillars — from charity care savings to tort recovery to the downstream economic opportunity that comes when families aren't drowning in debt.
+
+ 
+
+---
+
+ 
+
+### Closing line:
+
+**This isn't about making families whole. It's about making communities wealthy.**
+
+ 
+
+---
+
+ 
+
+## SECTION 11: FINAL CTA — "Your Turn"
+
+ 
+
+**Layout:** Full-bleed warm background. Large centered text. Single powerful CTA button.
+
+ 
+
+---
+
+ 
+
+### Headline:
+
+# Nobody is coming to save you. But we're here to fight *with* you.
+
+ 
+
+FairClaims is free to start. No forms. No commitment. Just a conversation about what you're facing — and what you might be owed.
+
+ 
+
+**[Get Started — Tell Us Your Story →]**
+
+ 
+
+*(Below the button, in smaller text:)*
+
+Or call us: **(312) XXX-XXXX** | Walk in to your neighborhood hub | Ask your church, clinic, or community org about FairClaims
+
+ 
+
+---
+
+ 
+
+## SECTION 12: FOOTER
+
+ 
+
+**Layout:** Clean dark footer with organized links and trust signals.
+
+ 
+
+---
+
+ 
+
+**Column 1: FairClaims**
+
+- About Us
+
+- Our Model
+
+- The Five Pillars
+
+- The Math
+
+- Stories
+
+ 
+
+**Column 2: Get Help**
+
+- Get Started
+
+- Charity Care Relief
+
+- Medical Debt Clearing
+
+- Prior Authorization
+
+- Workplace Injury
+
+- Toxic Exposure
+
+ 
+
+**Column 3: Get Involved**
+
+- Become a Latimer Leader
+
+- Join the Guild
+
+- Partner With Us
+
+- Volunteer
+
+ 
+
+**Column 4: Connect**
+
+- Contact
+
+- Newsletter Signup
+
+- Social Media Links
+
+ 
+
+**Bottom bar:**
+
+FairClaims is a program of the ThriveAI Medical Financial Freedom and Equity Initiative, in partnership with the Chicago Urban League.
+
+*Bridging the Digital, Debt, and Death Gap in the Digital Desert 25.*
+
+ 
+
+© 2026 FairClaims. All rights reserved. | Privacy Policy | Terms of Service
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 2: CHARITY CARE RELIEF (/charity-care)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+PILLAR 1 OF 5
+
+ 
+
+### Headline:
+
+# You might qualify for free hospital care. Right now.
+
+ 
+
+### Subhead:
+
+Under Illinois law, nonprofit hospitals must offer free care to families earning under 200% of the federal poverty level — and discounted care above that. Most families who qualify are never told.
+
+ 
+
+---
+
+ 
+
+### Section: "Did You Know?"
+
+ 
+
+- For a family of four in 2025, 200% of the federal poverty level is approximately **$62,400**. If your household earns less than that, you may qualify for **completely free hospital care**.
+
+- Even above that income, Illinois law limits what hospitals can collect to **20% of your family income**.
+
+- Hospitals are legally required to display financial assistance information in their admissions and emergency room areas — in your language. Most don't make it easy to find.
+
+- In Cook County alone, a program that spent **$4 million** in public funds erased nearly **$500 million** in medical debt — but investigations revealed most of that debt belonged to patients who **should have qualified for free care in the first place**.
+
+ 
+
+---
+
+ 
+
+### Section: "How FairClaims Helps"
+
+ 
+
+1. **We screen you** — Our Navigator helps you determine if you qualify for charity care based on your income, family size, and the hospital where you received care.
+
+2. **We complete the paperwork** — Financial assistance applications can be confusing and intimidating. We walk you through every line.
+
+3. **We advocate on your behalf** — If a hospital is slow to respond, fails to offer required information, or denies a legitimate application, we escalate.
+
+4. **We opt you in to ongoing protection** — Once enrolled, your charity care status can protect you from future bills at the same institution.
+
+ 
+
+---
+
+ 
+
+**[Check If I Qualify →]**
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 3: MEDICAL DEBT CLEARING (/medical-debt)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+PILLAR 2 OF 5
+
+ 
+
+### Headline:
+
+# That bill might not be yours to pay.
+
+ 
+
+### Subhead:
+
+Medical debt is the #1 cause of bankruptcy in America — responsible for 66.5% of all filings. But much of that debt is inflated, incorrectly billed, or legally unenforceable.
+
+ 
+
+---
+
+ 
+
+### Section: "The Debt Machine"
+
+ 
+
+- Americans owe at least **$220 billion** in medical debt. For Black families, the burden is disproportionate — **48%** carry medical debt, compared to 34% of white families.
+
+- In February 2026, Illinois announced it erased **$1.1 billion** in medical debt for over 500,000 residents — spending just $10 million. Every dollar spent cleared more than **$100 in debt**.
+
+- Medical bills are the most common debt in collections nationwide. Even a single unpaid bill can damage your credit, block you from renting an apartment, and follow you for years.
+
+- Many families don't realize they can **dispute medical debt**, request **itemized bills** to catch errors, or negotiate directly with hospitals — especially if they would have qualified for financial assistance.
+
+ 
+
+---
+
+ 
+
+### Section: "How FairClaims Helps"
+
+ 
+
+1. **Debt Verification** — We request itemized bills and verify every charge. Billing errors are common.
+
+2. **Financial Assistance Screening** — If you should have qualified for free or discounted care, we go back and apply — even after you've been sent to collections.
+
+3. **Negotiation** — We work with hospitals and collection agencies to reduce or eliminate your balance.
+
+4. **Relief Program Connection** — We connect you to state, county, and nonprofit debt relief programs you may not know about.
+
+5. **Credit Protection** — We help you understand your rights under federal and state law to keep medical debt from destroying your credit.
+
+ 
+
+---
+
+ 
+
+**[Help Me With My Medical Debt →]**
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 4: PRIOR AUTHORIZATION RESILIENCE (/prior-authorization)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+PILLAR 3 OF 5
+
+ 
+
+### Headline:
+
+# Your doctor said yes. Your insurer said no. We say: fight back.
+
+ 
+
+### Subhead:
+
+Prior authorization — the process where insurers require advance approval before covering a treatment — delays care for 94% of patients and causes 82% to abandon treatment entirely.
+
+ 
+
+---
+
+ 
+
+### Section: "The Denial Machine"
+
+ 
+
+- In 2024, Medicare Advantage insurers alone processed nearly **53 million** prior authorization requests — and denied **4.1 million** of them.
+
+- Of those denials, only **11.5% were appealed**. But of those that were, **80.7% were overturned**. The math is staggering: millions of patients are being denied care that would be approved if they simply pushed back.
+
+- **61% of physicians** say AI tools are increasing or will increase denial rates. Insurance companies are using automated systems to issue "batch denials" with little or no human review.
+
+- The AMA reports that **29% of doctors** say prior authorization has led to a **serious adverse event** for a patient — including hospitalization, life-threatening emergencies, and death.
+
+- The average physician's office spends **13 hours per week** on prior authorization paperwork — time taken away from actually caring for patients.
+
+ 
+
+---
+
+ 
+
+### Section: "How FairClaims Helps"
+
+ 
+
+1. **We decode the denial** — Our team reviews your denial letter and identifies the specific reason and the appeal pathway.
+
+2. **We build your appeal** — Working with your doctor's office, we compile the medical evidence, documentation, and legal citations needed to overturn the denial.
+
+3. **We track timelines** — Prior authorization appeals have strict deadlines. We make sure nothing falls through the cracks.
+
+4. **We escalate when needed** — If your internal appeal is denied, we connect you with advocacy resources for external review, state insurance department complaints, and legal options.
+
+5. **We teach resilience** — Through the Knowledge Oasis, you can learn how the system works so you're prepared next time.
+
+ 
+
+---
+
+ 
+
+**[Help Me Fight a Denial →]**
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 5: WORKPLACE INJURY MAX CLAIM (/workplace-injury)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+PILLAR 4 OF 5
+
+ 
+
+### Headline:
+
+# You got hurt at work. You deserve every dollar.
+
+ 
+
+### Subhead:
+
+Workers' compensation exists to protect you — but the system is designed to pay as little as possible. We're here to make sure you get the maximum.
+
+ 
+
+---
+
+ 
+
+### Section: "The Denial Playbook"
+
+ 
+
+- An estimated **13–25% of workers' compensation claims are denied** on the first attempt — often on technicalities like late reporting, missing documentation, or disputes over whether the injury is "work-related."
+
+- Employers sometimes discourage reporting. Insurance companies may attribute your injury to pre-existing conditions. Independent medical exams can be biased toward the insurer.
+
+- Many workers — especially in physically demanding jobs on the South and West Side — don't know their rights, don't know they can appeal, and don't know that having an attorney can dramatically change the outcome.
+
+- Without an advocate, injured workers accept lowball settlements, return to work too early, or simply give up.
+
+ 
+
+---
+
+ 
+
+### Section: "How FairClaims Helps"
+
+ 
+
+1. **Immediate guidance** — Report your injury correctly, document everything, and protect your rights from day one.
+
+2. **Claim review** — We analyze your situation and identify whether you're being undercompensated.
+
+3. **Vetted legal connection** — Our Guild network includes workers' compensation attorneys who operate at fair, transparent rates — not the 40% fees common in the industry.
+
+4. **Maximization, not just approval** — We don't just fight for approval. We fight for the maximum benefit: lost wages, medical costs, rehabilitation, and permanent disability if applicable.
+
+5. **Employer accountability** — If your employer failed to report, retaliated, or discouraged your claim, we help you address that too.
+
+ 
+
+---
+
+ 
+
+**[Help Me With My Claim →]**
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 6: TOXIC EXPOSURE MAX CLAIM (/toxic-exposure)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Eyebrow:
+
+PILLAR 5 OF 5
+
+ 
+
+### Headline:
+
+# If your neighborhood made you sick, someone owes you more than an apology.
+
+ 
+
+### Subhead:
+
+From lead paint to contaminated water to PFAS "forever chemicals," communities on Chicago's South and West Side have been disproportionately exposed to industrial toxins for generations. Billions in compensation are available — but only if you claim it.
+
+ 
+
+---
+
+ 
+
+### Section: "Environmental Injustice Is Medical Financial Injustice"
+
+ 
+
+- **Camp Lejeune** — one of the largest toxic exposure cases in U.S. history — has over **410,000 administrative claims** and nearly 3,000 active lawsuits. Families who lived near contaminated military bases, industrial sites, and chemical plants face similar exposures.
+
+- **AFFF firefighting foam** containing PFAS chemicals has contaminated water supplies near fire stations, airports, and industrial facilities across the country — including in Chicago.
+
+- Chicago's South and West Side neighborhoods sit in the shadow of industrial corridors, legacy lead contamination, and environmental neglect. The health consequences — cancers, respiratory disease, neurological damage — are well-documented. The compensation is not.
+
+- Mass tort and environmental justice claims can result in significant awards — but families in affected communities are **dramatically underrepresented** because they lack access to information, legal resources, and trusted advocates.
+
+ 
+
+---
+
+ 
+
+### Section: "How FairClaims Helps"
+
+ 
+
+1. **Exposure assessment** — We help you understand whether your health conditions may be linked to environmental exposure in your neighborhood.
+
+2. **Claim eligibility screening** — Our team cross-references your location, health history, and known contamination sites to identify potential claims.
+
+3. **Trusted legal connection** — Our Guild includes vetted mass tort and environmental justice attorneys who serve FairClaims families at fair, transparent rates — well below the industry standard of 40%.
+
+4. **Ongoing monitoring** — New mass tort and class action opportunities emerge regularly. As a FairClaims member, you're notified when new claims may apply to you.
+
+5. **Community-wide advocacy** — When patterns emerge across a neighborhood, we don't just file individual claims. We organize community-wide action.
+
+ 
+
+---
+
+ 
+
+**[Check If I Have a Claim →]**
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 7: OUR MODEL (/our-model)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Headline:
+
+# ThriveAI + FairClaims + Guild 2.0 — The Ecosystem
+
+ 
+
+---
+
+ 
+
+### Section: "Three Engines, One Mission"
+
+ 
+
+**ThriveAI Ecosystem** *(Chicago Urban League)*
+
+The AI-augmented knowledge and wellness platform that powers FairClaims' technology backbone. ThriveAI provides the digital infrastructure — from the Wellness App to the case management platform — that allows advocacy to scale across 25 neighborhoods without losing the personal touch.
+
+ 
+
+**FairClaims Platform**
+
+The intelligent advocacy engine. FairClaims' technology handles intake, case routing, document management, eligibility screening, and outcome tracking across all five pillars. Built for community use — not corporate complexity.
+
+ 
+
+**Guild 2.0**
+
+A cooperative network of vetted legal, financial, and healthcare professionals who've agreed to serve FairClaims families at fair, transparent rates. The Guild isn't a referral list — it's a membership-based cooperative where quality is enforced, outcomes are tracked, and community benefit is the bottom line.
+
+ 
+
+---
+
+ 
+
+### Section: "The Hub-and-Spoke Model"
+
+ 
+
+Proposed to the City of Chicago in the SB Tech Enablement Grant, the FairClaims model places a **Smart Hub** in each of the 25 lowest-income neighborhoods on Chicago's South and West Side.
+
+ 
+
+Each Hub is:
+
+- **Locally staffed** with a CEN team (mature leader + youth digital native)
+
+- **Digitally connected** to the full FairClaims platform and Knowledge Oasis
+
+- **Community-embedded** in existing trusted spaces — churches, libraries, clinics, community centers
+
+- **Supported** by the Guild 2.0 network of attorneys and advocates
+
+ 
+
+The Hubs don't replace existing organizations. They amplify them.
+
+ 
+
+---
+
+ 
+
+### Section: "Operationalizing the Latimer Plan"
+
+ 
+
+FairClaims operationalizes the vision of NLU's Latimer Plan — bringing the promise of utility-grade digital infrastructure to communities that have been systematically excluded from economic opportunity. Through ThriveAI's augmented AI and the Knowledge Ecosystem, medical financial advocacy becomes as accessible as turning on a light.
+
+ 
+
+Lewis Latimer made electric lighting affordable for ordinary Americans. FairClaims makes medical financial freedom accessible to ordinary families.
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 8: LATIMER LEADERS (/latimer-leaders)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Headline:
+
+# The Latimer Leaders Program — Become a Medical Financial Draftsman
+
+ 
+
+---
+
+ 
+
+### Section: "Who Was Lewis Latimer?"
+
+ 
+
+Lewis Howard Latimer (1848–1928) was a Black inventor, draftsman, and engineer who drew the patent illustrations for Alexander Graham Bell's telephone and went on to work alongside Thomas Edison. He invented the carbon filament process that made electric lighting affordable — and he taught himself draftsmanship while serving in the Union Navy.
+
+ 
+
+Latimer didn't wait for permission. He mastered the tools of his time and made himself indispensable.
+
+ 
+
+---
+
+ 
+
+### Section: "The Modern Draftsman"
+
+ 
+
+Today, the tools are different — AI platforms, data systems, advocacy workflows, legal research — but the opportunity is the same. **Latimer Leaders** are young people from Chicago's South and West Side who train as medical financial advocates through the FairClaims CEN program.
+
+ 
+
+**What Latimer Leaders Do:**
+
+- Serve as the youth digital-native member of each neighborhood CEN team
+
+- Navigate AI-augmented tools to identify charity care eligibility, file appeals, and research claims
+
+- Conduct community outreach and digital literacy education
+
+- Collect and organize case documentation
+
+- Grow into leadership roles within the FairClaims Guild and ThriveAI Ecosystem
+
+ 
+
+**What Latimer Leaders Earn:**
+
+- Paid positions through the Chicago Summer Jobs Program pipeline and year-round employment
+
+- Certified training in medical financial advocacy, digital tools, and community organizing
+
+- Career pathways into healthcare advocacy, legal services, technology, and public service
+
+- Membership and equity in the FairClaims Guild 2.0 cooperative
+
+ 
+
+---
+
+ 
+
+### Section: "Recruitment Pipeline"
+
+ 
+
+Latimer Leaders are recruited from:
+
+- **Chicago Summer Jobs Program** participants
+
+- **Treatment Not Trauma** program alumni
+
+- Community organization referrals
+
+- High school and community college partnerships
+
+ 
+
+---
+
+ 
+
+**[Apply to Become a Latimer Leader →]**
+
+**[Nominate a Young Leader →]**
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 9: STORIES (/stories)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Headline:
+
+# Real Families. Real Claims. Real Freedom.
+
+ 
+
+*(Placeholder — to be populated with actual testimonials and case studies as the program launches. Template stories below.)*
+
+ 
+
+---
+
+ 
+
+**Story 1: Maria's Appendectomy**
+
+*Englewood*
+
+When Maria's daughter needed emergency surgery, she didn't have time to ask about the bill. Weeks later, $15,000 in charges arrived. Maria's FairClaims Navigator discovered she qualified for full charity care under Illinois law. Her bill was reduced to **$0**.
+
+**Pillar: Charity Care Relief**
+
+ 
+
+---
+
+ 
+
+**Story 2: James's Denied MRI**
+
+*Austin*
+
+James's doctor ordered an MRI for chronic back pain. His insurer denied the prior authorization. His FairClaims Navigator helped him file an appeal with the right documentation. The denial was overturned in **12 days**.
+
+**Pillar: Prior Authorization Resilience**
+
+ 
+
+---
+
+ 
+
+**Story 3: Tanya's Collections Nightmare**
+
+*West Garfield Park*
+
+After a hospital visit two years ago, Tanya was in collections for $8,400. Her Navigator discovered billing errors totaling $3,100 and connected her to the Illinois Medical Debt Relief Program. Her remaining balance was **eliminated**.
+
+**Pillar: Medical Debt Clearing**
+
+ 
+
+---
+
+ 
+
+**Story 4: DeShawn's Warehouse Injury**
+
+*Back of the Yards*
+
+DeShawn hurt his shoulder on a warehouse loading dock. His employer told him to "walk it off." His FairClaims Navigator connected him with a Guild attorney who secured full workers' compensation — including surgery, rehabilitation, and lost wages.
+
+**Pillar: Workplace Injury Max Claim**
+
+ 
+
+---
+
+ 
+
+**Story 5: The Altgeld Gardens Community Claim**
+
+*Riverdale*
+
+When residents of a South Side housing development discovered elevated PFAS levels in their water supply, FairClaims organized a community-wide toxic exposure screening. Forty-seven families were connected to mass tort attorneys through the Guild.
+
+**Pillar: Toxic Exposure Max Claim**
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# PAGE 10: GET STARTED (/get-started)
+
+# ═══════════════════════════════════════════
+
+ 
+
+---
+
+ 
+
+### Headline:
+
+# Tell Us What's Happening. We'll Take It From Here.
+
+ 
+
+### Subhead:
+
+No paperwork. No judgment. No cost to start. Just a conversation about what you're facing.
+
+ 
+
+---
+
+ 
+
+### Intake Form *(Simple, 5-field max):*
+
+ 
+
+1. **Your Name** *(first name only is fine)*
+
+2. **Your Neighborhood** *(dropdown of Chicago community areas)*
+
+3. **What's Going On?** *(dropdown: Surprise Medical Bill / Medical Debt / Insurance Denied My Care / Hurt at Work / Think I Was Exposed to Something Toxic / Not Sure — Just Need Help)*
+
+4. **Best Way to Reach You** *(phone / text / email)*
+
+5. **Anything else you want us to know?** *(optional text field)*
+
+ 
+
+---
+
+ 
+
+**[Submit — A Navigator Will Reach Out Within 48 Hours →]**
+
+ 
+
+---
+
+ 
+
+### Below the form:
+
+ 
+
+**Prefer to talk to someone right now?**
+
+📞 Call: (312) XXX-XXXX
+
+📍 Walk in: Find your nearest FairClaims Hub *(link to map)*
+
+🏥 Ask your doctor, church, or community center about FairClaims
+
+ 
+
+---
+
+ 
+
+### Trust signals:
+
+ 
+
+✅ FairClaims is free to start — always
+
+✅ Your information is confidential and protected
+
+✅ We are not a law firm — we are your advocates, connecting you to vetted professionals
+
+✅ A program of the ThriveAI Medical Financial Freedom and Equity Initiative
+
+ 
+
+---
+
+---
+
+ 
+
+# ═══════════════════════════════════════════
+
+# DESIGN & TONE NOTES
+
+# ═══════════════════════════════════════════
+
+ 
+
+## Voice & Tone
+
+- **Conversational, not clinical** — "We help you claim what's yours" not "We facilitate claim adjudication"
+
+- **Empowering, not pitying** — "You deserve this" not "We'll help you because you're struggling"
+
+- **Urgent but not alarmist** — "The time is now" not "If you don't act you'll lose everything"
+
+- **Community-rooted** — Use neighborhood names. Reference Chicago landmarks. Ground everything in the South and West Side.
+
+ 
+
+## Visual Direction
+
+- **Photography:** Real families, real neighborhoods. Golden hour warmth. Avoid stock photos of generic "diverse" groups. Show specific Chicago places and people.
+
+- **Color palette:** Deep navy + warm gold/amber + clean white + accents of healing green. Avoid clinical blue/white sterility.
+
+- **Typography:** Bold, modern sans-serif for headlines (e.g., Clash Display, General Sans). Warm, readable serif for body copy (e.g., Source Serif Pro).
+
+- **Icons:** Custom line icons for each of the five pillars. Simple, warm, not corporate.
+
+- **Layout:** Generous whitespace. Large type. Short paragraphs. Scroll-driven storytelling. Animations on scroll (stats counting up, sections fading in).
+
+ 
+
+## Mobile-First Principles
+
+- Hero section must be powerful on a phone screen — many users will access via mobile on the South/West Side
+
+- All CTAs must be thumb-reachable
+
+- Intake form must work perfectly on mobile
+
+- Knowledge Oasis content must load fast on mobile data connections
+
+ 
+
+## Accessibility
+
+- All text meets WCAG AA contrast ratios
+
+- Alt text on all images
+
+- Screen reader compatible
+
+- Available in English and Spanish (minimum)
+
+- Plain language throughout — target 6th-8th grade reading level for core content
+
+ 

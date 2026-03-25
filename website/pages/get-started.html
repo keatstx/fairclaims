@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Get started with FairClaims. Tell us what you're facing and a Navigator will reach out within 48 hours.">
+  <title>Get Started — FairClaims</title>
+  <link rel="stylesheet" href="../css/styles.css">
+  <style>
+    /* --- Get Started Page Overrides --- */
+    .intake-wrapper {
+      max-width: 620px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+
+    .intake-wrapper h2 {
+      text-align: center;
+      margin-bottom: 0.5rem;
+    }
+
+    .intake-intro {
+      text-align: center;
+      color: var(--text-secondary);
+      font-size: 1.05rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .form-card {
+      background: var(--white);
+      border: 1px solid var(--gray-200);
+      border-radius: 12px;
+      padding: 2.5rem 2rem;
+      box-shadow: 0 2px 20px rgba(0,0,0,0.06);
+    }
+
+    .radio-group {
+      display: flex;
+      gap: 1.25rem;
+      flex-wrap: wrap;
+      margin: 0.5rem 0 1rem;
+    }
+
+    .radio-option {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      cursor: pointer;
+      font-family: var(--font-ui);
+      font-size: 0.95rem;
+      font-weight: 400;
+      color: var(--text-primary);
+      padding: 0.5rem 1rem;
+      border: 2px solid var(--gray-200);
+      border-radius: 8px;
+      transition: all 0.2s ease;
+    }
+
+    .radio-option:hover {
+      border-color: var(--gold);
+    }
+
+    .radio-option input[type="radio"] {
+      accent-color: var(--gold-dark);
+      width: 16px;
+      height: 16px;
+      margin: 0;
+    }
+
+    .radio-option input[type="radio"]:checked + span {
+      font-weight: 600;
+    }
+
+    .radio-option:has(input:checked) {
+      border-color: var(--gold);
+      background: rgba(212, 168, 67, 0.06);
+    }
+
+    .form-divider {
+      border: none;
+      border-top: 1px solid var(--gray-200);
+      margin: 2rem 0;
+    }
+
+    .submit-btn {
+      width: 100%;
+      font-size: 1.05rem;
+      padding: 1rem;
+      margin-top: 0.5rem;
+    }
+
+    .contact-cards {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.25rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .contact-card {
+      background: var(--white);
+      border: 1px solid var(--gray-200);
+      border-radius: 12px;
+      padding: 1.75rem;
+      text-align: center;
+      transition: all 0.2s ease;
+    }
+
+    .contact-card:hover {
+      border-color: var(--gold);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    }
+
+    .contact-card__icon {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .contact-card h3 {
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .contact-card p {
+      font-size: 0.95rem;
+      color: var(--text-secondary);
+      margin-bottom: 0;
+      max-width: none;
+    }
+
+    .contact-card .phone-number {
+      font-family: var(--font-heading);
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--navy);
+      margin: 0.25rem 0 0.5rem;
+    }
+
+    .trust-bar {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.25rem;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .trust-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+    }
+
+    .trust-item__check {
+      color: var(--green);
+      font-size: 1.2rem;
+      font-weight: 700;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+    }
+
+    .trust-item p {
+      font-family: var(--font-ui);
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      margin: 0;
+      line-height: 1.5;
+    }
+
+    .trust-item strong {
+      display: block;
+      color: var(--navy);
+      font-size: 0.9rem;
+      margin-bottom: 0.15rem;
+    }
+
+    @media (min-width: 640px) {
+      .contact-cards { grid-template-columns: repeat(3, 1fr); }
+      .form-card { padding: 2.5rem; }
+    }
+
+    @media (max-width: 639px) {
+      .trust-bar { grid-template-columns: 1fr; }
+      .form-card { padding: 1.5rem; }
+      .intake-wrapper { padding: 2rem 1rem 3rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="navbar__inner">
+      <a href="../index.html" class="navbar__logo">Fair<span>Claims</span></a>
+      <ul class="navbar__links">
+        <li><a href="../index.html#pillars">Five Pillars</a></li>
+        <li><a href="../index.html#how-it-works">How It Works</a></li>
+        <li><a href="our-model.html">Our Model</a></li>
+        <li><a href="latimer-leaders.html">Latimer Leaders</a></li>
+        <li><a href="stories.html">Stories</a></li>
+        <li><a href="get-started.html" class="navbar__cta">Get Started</a></li>
+      </ul>
+      <button class="navbar__toggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="navbar__mobile">
+      <a href="../index.html">Home</a>
+      <a href="../index.html#pillars">Five Pillars</a>
+      <a href="charity-care.html">Charity Care</a>
+      <a href="medical-debt.html">Medical Debt</a>
+      <a href="prior-authorization.html">Prior Authorization</a>
+      <a href="workplace-injury.html">Workplace Injury</a>
+      <a href="toxic-exposure.html">Toxic Exposure</a>
+      <a href="our-model.html">Our Model</a>
+      <a href="latimer-leaders.html">Latimer Leaders</a>
+      <a href="stories.html">Stories</a>
+      <a href="get-started.html">Get Started</a>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="page-header">
+    <div class="container">
+      <h1 class="fade-in">Tell Us What's Happening.<br>We'll Take It From Here.</h1>
+      <p class="fade-in">No paperwork. No judgment. No cost to start. Just a conversation about what you're facing.</p>
+    </div>
+  </header>
+
+  <!-- Intake Form -->
+  <div class="intake-wrapper">
+    <div class="form-card fade-in">
+      <form id="intake-form" method="POST">
+
+        <div class="form-group">
+          <label for="name">Your Name <span style="font-size: 0.85em; font-weight: 400; color: var(--gray-300);">(first name only is fine)</span></label>
+          <input type="text" id="name" name="name" placeholder="First name" required>
+        </div>
+
+        <div class="form-group">
+          <label for="neighborhood">Your Neighborhood</label>
+          <select id="neighborhood" name="neighborhood" required>
+            <option value="">Select your neighborhood</option>
+            <option value="Englewood">Englewood</option>
+            <option value="West Englewood">West Englewood</option>
+            <option value="West Garfield Park">West Garfield Park</option>
+            <option value="East Garfield Park">East Garfield Park</option>
+            <option value="Austin">Austin</option>
+            <option value="Back of the Yards">Back of the Yards</option>
+            <option value="Roseland">Roseland</option>
+            <option value="Auburn Gresham">Auburn Gresham</option>
+            <option value="Chatham">Chatham</option>
+            <option value="South Shore">South Shore</option>
+            <option value="Woodlawn">Woodlawn</option>
+            <option value="Bronzeville">Bronzeville</option>
+            <option value="North Lawndale">North Lawndale</option>
+            <option value="Humboldt Park">Humboldt Park</option>
+            <option value="Greater Grand Crossing">Greater Grand Crossing</option>
+            <option value="Washington Park">Washington Park</option>
+            <option value="Riverdale">Riverdale</option>
+            <option value="Pullman">Pullman</option>
+            <option value="West Pullman">West Pullman</option>
+            <option value="South Chicago">South Chicago</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="issue">What's Going On?</label>
+          <select id="issue" name="issue" required>
+            <option value="">Tell us what you're facing</option>
+            <option value="Surprise Medical Bill">Surprise Medical Bill</option>
+            <option value="Medical Debt">Medical Debt</option>
+            <option value="Insurance Denied My Care">Insurance Denied My Care</option>
+            <option value="Hurt at Work">Hurt at Work</option>
+            <option value="Toxic Exposure">Think I Was Exposed to Something Toxic</option>
+            <option value="Not Sure">Not Sure, Just Need Help</option>
+          </select>
+        </div>
+
+        <hr class="form-divider">
+
+        <div class="form-group">
+          <label>Best Way to Reach You</label>
+          <div class="radio-group">
+            <label class="radio-option">
+              <input type="radio" name="contact_method" value="Phone" required>
+              <span>Phone</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="contact_method" value="Text">
+              <span>Text</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="contact_method" value="Email">
+              <span>Email</span>
+            </label>
+          </div>
+          <input type="text" id="contact_info" name="contact_info" placeholder="Your phone number, text number, or email" required>
+        </div>
+
+        <div class="form-group">
+          <label for="additional">Anything else you want us to know? <span style="font-size: 0.85em; font-weight: 400; color: var(--gray-300);">(optional)</span></label>
+          <textarea id="additional" name="additional" placeholder="Tell us more about your situation..." rows="4"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn--primary submit-btn">Submit — A Navigator Will Reach Out Within 48 Hours</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Trust Signals -->
+  <section class="section section--warm">
+    <div class="container">
+      <div class="trust-bar fade-in">
+        <div class="trust-item">
+          <div class="trust-item__check">&#10003;</div>
+          <p><strong>Free to start, always</strong>No hidden fees. No surprises. No cost to tell us what you're facing.</p>
+        </div>
+        <div class="trust-item">
+          <div class="trust-item__check">&#10003;</div>
+          <p><strong>Confidential and protected</strong>What you share stays between you and your Navigator.</p>
+        </div>
+        <div class="trust-item">
+          <div class="trust-item__check">&#10003;</div>
+          <p><strong>Advocates, not attorneys</strong>We navigate systems, connect you to vetted professionals, and fight alongside you.</p>
+        </div>
+        <div class="trust-item">
+          <div class="trust-item__check">&#10003;</div>
+          <p><strong>Backed by ThriveAI</strong>A program of the ThriveAI Medical Financial Freedom and Equity Initiative.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Other Ways to Connect -->
+  <section class="section">
+    <div class="container">
+      <h2 class="text-center fade-in" style="margin-bottom: 2rem;">Prefer to talk to someone right now?</h2>
+      <div class="contact-cards fade-in">
+        <div class="contact-card">
+          <div class="contact-card__icon">&#128222;</div>
+          <h3>Call Us</h3>
+          <div class="phone-number">(312) XXX-XXXX</div>
+          <p>Speak with a Navigator directly.</p>
+        </div>
+        <div class="contact-card">
+          <div class="contact-card__icon">&#128205;</div>
+          <h3>Walk In</h3>
+          <p>Find your nearest FairClaims Hub. No appointment needed.</p>
+        </div>
+        <div class="contact-card">
+          <div class="contact-card__icon">&#127970;</div>
+          <h3>Ask Your Community</h3>
+          <p>Your doctor, church, or community center can connect you to FairClaims.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer__grid">
+      <div class="footer__col">
+        <h4>FairClaims</h4>
+        <a href="../index.html#the-gap">About Us</a>
+        <a href="our-model.html">Our Model</a>
+        <a href="../index.html#pillars">The Five Pillars</a>
+        <a href="../index.html#the-math">The Math</a>
+        <a href="stories.html">Stories</a>
+      </div>
+      <div class="footer__col">
+        <h4>Get Help</h4>
+        <a href="get-started.html">Get Started</a>
+        <a href="charity-care.html">Charity Care Relief</a>
+        <a href="medical-debt.html">Medical Debt Clearing</a>
+        <a href="prior-authorization.html">Prior Authorization</a>
+        <a href="workplace-injury.html">Workplace Injury</a>
+        <a href="toxic-exposure.html">Toxic Exposure</a>
+      </div>
+      <div class="footer__col">
+        <h4>Get Involved</h4>
+        <a href="latimer-leaders.html">Become a Latimer Leader</a>
+        <a href="#">Join the Guild</a>
+        <a href="#">Partner With Us</a>
+        <a href="#">Volunteer</a>
+      </div>
+      <div class="footer__col">
+        <h4>Connect</h4>
+        <a href="get-started.html">Contact</a>
+        <a href="#">Newsletter Signup</a>
+        <a href="#">Social Media</a>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <p>FairClaims is a program of the ThriveAI Medical Financial Freedom and Equity Initiative, in partnership with the Chicago Urban League.</p>
+      <p><em>Bridging the Digital, Debt, and Death Gap in the Digital Desert 25.</em></p>
+      <p style="margin-top: 1rem;">&copy; 2026 FairClaims. All rights reserved. | Privacy Policy | Terms of Service</p>
+    </div>
+  </footer>
+
+  <script src="../js/main.js"></script>
+</body>
+</html>
