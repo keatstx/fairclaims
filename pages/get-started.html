@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Started — FairClaims</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="navbar__inner">
+            <div class="navbar__logo">Fair<span>Claims</span></div>
+            <div class="navbar__links">
+                <a href="../index.html">Home</a>
+                <a href="our-model.html">Our Model</a>
+                <a href="latimer-leaders.html">Latimer Leaders</a>
+                <a href="stories.html">Stories</a>
+                <a href="get-started.html">Get Started</a>
+            </div>
+            <a href="get-started.html" class="navbar__cta btn btn--primary">Get Help</a>
+            <button class="navbar__toggle" aria-label="Toggle menu">☰</button>
+        </div>
+        <div class="navbar__mobile" style="display: none;">
+            <a href="../index.html">Home</a>
+            <a href="our-model.html">Our Model</a>
+            <a href="latimer-leaders.html">Latimer Leaders</a>
+            <a href="stories.html">Stories</a>
+            <a href="get-started.html">Get Started</a>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <div class="container">
+            <h1>Tell Us What's Happening. We'll Take It From Here.</h1>
+            <p style="text-align: center; font-size: 1.1em; margin-top: 1rem;">No paperwork. No judgment. No cost to start. Just a conversation about what you're facing.</p>
+        </div>
+    </header>
+
+    <!-- Form Section -->
+    <section class="form-section">
+        <div class="container" style="max-width: 600px;">
+            <form id="intake-form" method="POST">
+                <!-- Name Field -->
+                <div class="form-group">
+                    <label for="name">Your Name <span style="font-size: 0.9em; color: #666;">(first name only is fine)</span></label>
+                    <input type="text" id="name" name="name" placeholder="First name" required>
+                </div>
+
+                <!-- Neighborhood Field -->
+                <div class="form-group">
+                    <label for="neighborhood">Your Neighborhood</label>
+                    <select id="neighborhood" name="neighborhood" required>
+                        <option value="">— Select your neighborhood —</option>
+                        <option value="Englewood">Englewood</option>
+                        <option value="West Garfield Park">West Garfield Park</option>
+                        <option value="Austin">Austin</option>
+                        <option value="Back of the Yards">Back of the Yards</option>
+                        <option value="Roseland">Roseland</option>
+                        <option value="Auburn Gresham">Auburn Gresham</option>
+                        <option value="Chatham">Chatham</option>
+                        <option value="South Shore">South Shore</option>
+                        <option value="Woodlawn">Woodlawn</option>
+                        <option value="North Lawndale">North Lawndale</option>
+                        <option value="East Garfield Park">East Garfield Park</option>
+                        <option value="Humboldt Park">Humboldt Park</option>
+                        <option value="West Englewood">West Englewood</option>
+                        <option value="Greater Grand Crossing">Greater Grand Crossing</option>
+                        <option value="Washington Park">Washington Park</option>
+                        <option value="Riverdale">Riverdale</option>
+                        <option value="Pullman">Pullman</option>
+                        <option value="West Pullman">West Pullman</option>
+                        <option value="South Chicago">South Chicago</option>
+                        <option value="Bronzeville">Bronzeville</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+
+                <!-- What's Going On Field -->
+                <div class="form-group">
+                    <label for="issue">What's Going On?</label>
+                    <select id="issue" name="issue" required>
+                        <option value="">— Tell us what you're facing —</option>
+                        <option value="Surprise Medical Bill">Surprise Medical Bill</option>
+                        <option value="Medical Debt">Medical Debt</option>
+                        <option value="Insurance Denied My Care">Insurance Denied My Care</option>
+                        <option value="Hurt at Work">Hurt at Work</option>
+                        <option value="Think I Was Exposed to Something Toxic">Think I Was Exposed to Something Toxic</option>
+                        <option value="Not Sure — Just Need Help">Not Sure — Just Need Help</option>
+                    </select>
+                </div>
+
+                <!-- Best Way to Reach You -->
+                <div class="form-group">
+                    <label>Best Way to Reach You</label>
+                    <div style="margin: 1rem 0;">
+                        <label style="display: flex; align-items: center; margin-bottom: 0.75rem; font-weight: normal;">
+                            <input type="radio" name="contact_method" value="Phone" required> Phone
+                        </label>
+                        <label style="display: flex; align-items: center; margin-bottom: 0.75rem; font-weight: normal;">
+                            <input type="radio" name="contact_method" value="Text"> Text
+                        </label>
+                        <label style="display: flex; align-items: center; font-weight: normal;">
+                            <input type="radio" name="contact_method" value="Email"> Email
+                        </label>
+                    </div>
+                    <input type="text" id="contact_info" name="contact_info" placeholder="Your phone number, text number, or email" required>
+                </div>
+
+                <!-- Optional Additional Info -->
+                <div class="form-group">
+                    <label for="additional">Anything else you want us to know? <span style="font-size: 0.9em; color: #666;">(optional)</span></label>
+                    <textarea id="additional" name="additional" placeholder="Tell us more about your situation..." rows="4"></textarea>
+                </div>
+
+                <!-- Submit Button -->
+                <button type="submit" class="btn btn--primary btn--large" style="width: 100%;">
+                    Submit — A Navigator Will Reach Out Within 48 Hours
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Trust Signals Section -->
+    <section class="section section--warm">
+        <div class="container" style="max-width: 600px;">
+            <div class="trust-signals">
+                <div class="trust-signals__item">
+                    <strong>FairClaims is free to start — always</strong>
+                    <p>No hidden fees. No surprises. No cost to tell us what you're facing.</p>
+                </div>
+                <div class="trust-signals__item">
+                    <strong>Your information is confidential and protected</strong>
+                    <p>We keep your data private. What you share stays between you and us.</p>
+                </div>
+                <div class="trust-signals__item">
+                    <strong>We are not a law firm — we are your advocates</strong>
+                    <p>We navigate systems, connect you to experts, and fight alongside you.</p>
+                </div>
+                <div class="trust-signals__item">
+                    <strong>A program of the ThriveAI Medical Financial Freedom and Equity Initiative</strong>
+                    <p>We're part of Chicago Urban League's commitment to equity and justice.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Options Section -->
+    <section class="section">
+        <div class="container">
+            <h2 class="text-center">Other Ways to Connect</h2>
+            <div class="cen-grid">
+                <div class="cen-card">
+                    <h3>Call Us</h3>
+                    <p style="font-size: 1.3em; font-weight: bold; color: #d4663a;">
+                        (312) XXX-XXXX
+                    </p>
+                    <p>Speak with a navigator directly. We're here to listen.</p>
+                </div>
+                <div class="cen-card">
+                    <h3>Walk Into Your Hub</h3>
+                    <p>Find your nearest FairClaims Hub and speak with a team member in person. No appointment needed.</p>
+                    <a href="#" class="btn btn--primary" style="margin-top: 1rem;">Find Your Nearest Hub</a>
+                </div>
+                <div class="cen-card">
+                    <h3>Ask Your Community</h3>
+                    <p>Ask your doctor, church, community center, or trusted organization about FairClaims. They may be able to connect you.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__grid">
+                <div class="footer__col">
+                    <h4>FairClaims</h4>
+                    <p>Medical financial freedom and equity for Chicago's most under-resourced communities.</p>
+                </div>
+                <div class="footer__col">
+                    <h4>Quick Links</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="our-model.html">Our Model</a></li>
+                        <li><a href="latimer-leaders.html">Latimer Leaders</a></li>
+                        <li><a href="stories.html">Stories</a></li>
+                    </ul>
+                </div>
+                <div class="footer__col">
+                    <h4>Get Started</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li><a href="get-started.html">Tell Us What's Happening</a></li>
+                        <li>Call: (312) XXX-XXXX</li>
+                        <li><a href="get-started.html">Find Your Nearest Hub</a></li>
+                    </ul>
+                </div>
+                <div class="footer__col">
+                    <h4>About</h4>
+                    <ul style="list-style: none; padding: 0;">
+                        <li>Chicago Urban League</li>
+                        <li>ThriveAI Medical Financial Freedom and Equity Initiative</li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer__bottom">
+                <p>&copy; 2026 FairClaims. All rights reserved. | A program of the ThriveAI Medical Financial Freedom and Equity Initiative.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>
