@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 { font-size: 2.5rem; margin-bottom: 1rem; }
 h2 { font-size: 2rem; margin-bottom: 0.85rem; }
-h3 { font-size: 1.5rem; margin-bottom: 0.75rem; }
+h3 { font-size: 1.5rem; margin-bottom: 0.85rem; }
 h4 { font-size: 1.25rem; margin-bottom: 0.5rem; }
 
 p {
@@ -96,12 +96,12 @@ em { font-style: italic; }
 
 .eyebrow {
   font-family: var(--font-ui);
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: var(--gold);
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.85rem;
   display: block;
 }
 
@@ -377,7 +377,7 @@ em { font-style: italic; }
 .hero__subtitle {
   font-size: 1.15rem;
   color: var(--gray-200);
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.85rem;
   line-height: 1.6;
 }
 
@@ -435,7 +435,7 @@ em { font-style: italic; }
   font-weight: 800;
   color: var(--gold);
   line-height: 1;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.85rem;
 }
 
 .stat-block__text {
@@ -486,7 +486,7 @@ em { font-style: italic; }
 .pillar-card__tagline {
   font-style: italic;
   color: var(--gold-light);
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.85rem;
   font-size: 0.95rem;
 }
 
@@ -673,19 +673,19 @@ em { font-style: italic; }
 
 .story-card__neighborhood {
   font-family: var(--font-ui);
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--gold-dark);
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.85rem;
 }
 
 .story-card__title {
   font-family: var(--font-heading);
   font-size: 1.15rem;
   color: var(--navy);
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.85rem;
 }
 
 .story-card__text {
@@ -697,7 +697,7 @@ em { font-style: italic; }
 
 .story-card__pillar {
   font-family: var(--font-ui);
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--green);
   background: rgba(58, 138, 106, 0.1);
@@ -826,7 +826,7 @@ em { font-style: italic; }
 
 .cen-card__icon {
   font-size: 2rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.85rem;
 }
 
 .cen-card__title {
@@ -1041,7 +1041,7 @@ em { font-style: italic; }
 .contact-options p {
   font-family: var(--font-ui);
   font-size: 1rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.85rem;
 }
 
 /* ==============================
