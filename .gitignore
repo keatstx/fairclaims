@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Local data — never commit the dev SQLite or .env
+backend/data/
+backend/.env
+data/
+*.db
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build outputs (none today, room for later)
+dist/
+build/

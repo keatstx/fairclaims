@@ -1,0 +1,46 @@
+services:
+  - type: web
+    name: fairclaims
+    runtime: docker
+    plan: starter
+    autoDeploy: true
+    healthCheckPath: /health
+    disk:
+      name: fairclaims-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      # LLM — Groq via OpenAI-compatible endpoint.
+      - key: FAIRCLAIMS_LLM_BACKEND
+        value: api
+      - key: FAIRCLAIMS_LLM_API_BASE
+        value: https://api.groq.com/openai/v1
+      - key: FAIRCLAIMS_LLM_MODEL
+        value: llama-3.3-70b-versatile
+      # Set in Render dashboard (Secret).
+      - key: FAIRCLAIMS_LLM_API_KEY
+        sync: false
+      - key: FAIRCLAIMS_LLM_TIMEOUT
+        value: "15"
+
+      # Admin auth for /admin/questions/* (Secret — rotate via dashboard).
+      - key: FAIRCLAIMS_ADMIN_TOKEN
+        sync: false
+
+      # Visitor analytics salt — Render auto-generates and persists.
+      - key: FAIRCLAIMS_VISITOR_HASH_SALT
+        generateValue: true
+
+      # Storage paths inside the container.
+      - key: FAIRCLAIMS_DB_PATH
+        value: /data/fairclaims.db
+      - key: FAIRCLAIMS_STATIC_DIR
+        value: /app
+
+      # Kill switch (flip to false to disable concierge without redeploy).
+      - key: FAIRCLAIMS_CONCIERGE_ENABLED
+        value: "true"
+
+      # Logging — JSON for prod log aggregation.
+      - key: FAIRCLAIMS_LOG_RENDERER
+        value: json
