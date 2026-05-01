@@ -2,13 +2,9 @@ services:
   - type: web
     name: fairclaims
     runtime: docker
-    plan: starter
+    plan: free
     autoDeploy: true
     healthCheckPath: /health
-    disk:
-      name: fairclaims-data
-      mountPath: /data
-      sizeGB: 1
     envVars:
       # LLM — Groq via OpenAI-compatible endpoint.
       - key: FAIRCLAIMS_LLM_BACKEND
@@ -31,9 +27,13 @@ services:
       - key: FAIRCLAIMS_VISITOR_HASH_SALT
         generateValue: true
 
-      # Storage paths inside the container.
+      # Storage paths. Free tier has no persistent disk — DB lives in
+      # the ephemeral filesystem and re-seeds on every restart. The
+      # question log resets across restarts; the FAQ store re-seeds
+      # automatically from backend/seed/. Upgrade to paid + add a disk
+      # later if you need durable question-log analytics.
       - key: FAIRCLAIMS_DB_PATH
-        value: /data/fairclaims.db
+        value: /tmp/fairclaims.db
       - key: FAIRCLAIMS_STATIC_DIR
         value: /app
 

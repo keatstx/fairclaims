@@ -17,11 +17,11 @@ COPY pages /app/pages
 COPY backend/seed /app/backend/seed
 COPY backend/prompts /app/backend/prompts
 
-# Render mounts a persistent disk at /data; the SQLite DB lives there
-# so question-log + FAQ store survive deploys. FAIRCLAIMS_STATIC_DIR
-# points at the project root inside the image.
+# SQLite path. Free Render tier has no persistent disk, so we default
+# to /tmp (ephemeral). On paid tiers with a disk mount, override to
+# /data/fairclaims.db via render.yaml.
 ENV FAIRCLAIMS_STATIC_DIR=/app
-ENV FAIRCLAIMS_DB_PATH=/data/fairclaims.db
+ENV FAIRCLAIMS_DB_PATH=/tmp/fairclaims.db
 
 # Render injects $PORT at runtime. Default to 10000 for local docker run.
 ENV PORT=10000
