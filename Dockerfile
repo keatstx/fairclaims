@@ -23,6 +23,11 @@ COPY backend/prompts /app/backend/prompts
 ENV FAIRCLAIMS_STATIC_DIR=/app
 ENV FAIRCLAIMS_DB_PATH=/tmp/fairclaims.db
 
+# Seed path — the FAQ markdown is copied into /app/backend/seed below.
+# This env var lets the seeder find it after pip-installing the package
+# into site-packages (where __file__-relative resolution doesn't work).
+ENV FAIRCLAIMS_SEED_PATH=/app/backend/seed/fairclaims_resident_faqs.md
+
 # Render injects $PORT at runtime. Default to 10000 for local docker run.
 ENV PORT=10000
 EXPOSE 10000

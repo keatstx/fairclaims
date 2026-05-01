@@ -237,32 +237,56 @@ async def import_faqs(
     return len(parsed)
 
 
-async def seed_default_faqs_if_empty(faq_store: FAQStore) -> int:
+async def seed_default_faqs_if_empty(
+    faq_store: FAQStore,
+    *,
+    seed_path: Optional[str] = None,
+) -> int:
     """Auto-seed the bundled FairClaims resident FAQ library on first startup.
 
-    Idempotent: only seeds when the FAQ table is empty. To rev FAQs in
-    production, drop a new ``backend/seed/fairclaims_resident_faqs.md``
-    and redeploy — the table is wiped on first deploy when the persistent
-    disk is fresh, or operated on manually otherwise.
+    The seed file is resolved in this order:
+    1. ``seed_path`` argument (passed by app.py from settings).
+    2. ``FAIRCLAIMS_SEED_PATH`` env var (read directly so this function
+       still works when called outside the Settings-injected lifespan).
+    3. Repo-relative ``backend/seed/fairclaims_resident_faqs.md`` —
+       works for editable installs (``pip install -e``) used in local
+       dev. Fails silently in Docker because ``__file__`` resolves to
+       site-packages there.
+
+    Idempotent: only seeds when the FAQ table is empty.
     """
+    import os
     from pathlib import Path
 
     existing = await faq_store.list_all()
     if existing:
         return 0
 
-    seed_path = (
+    candidates: list[Path] = []
+    if seed_path:
+        candidates.append(Path(seed_path))
+    env_path = os.environ.get("FAIRCLAIMS_SEED_PATH", "")
+    if env_path:
+        candidates.append(Path(env_path))
+    candidates.append(
         Path(__file__).resolve().parent.parent.parent.parent
         / "seed"
         / "fairclaims_resident_faqs.md"
     )
-    if not seed_path.exists():
+
+    chosen: Optional[Path] = None
+    for c in candidates:
+        if c.exists():
+            chosen = c
+            break
+
+    if chosen is None:
         return 0
 
-    text = seed_path.read_text(encoding="utf-8")
+    text = chosen.read_text(encoding="utf-8")
     return await import_faqs(
         text=text,
         faq_store=faq_store,
-        source_filename="fairclaims_resident_faqs.md (bundled seed)",
+        source_filename=f"{chosen.name} (bundled seed)",
         owner_id=None,
     )

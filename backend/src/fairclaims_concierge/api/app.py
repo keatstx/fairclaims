@@ -59,13 +59,17 @@ def create_app() -> FastAPI:
 
         faq_store = FAQStore(str(db_path))
         await faq_store.initialize()
-        seeded = await seed_default_faqs_if_empty(faq_store)
+        seeded = await seed_default_faqs_if_empty(
+            faq_store,
+            seed_path=settings.seed_path or None,
+        )
         total = len(await faq_store.list_all())
         logger.info(
             "faq_store_ready",
             db_path=str(db_path),
             seeded=seeded,
             total=total,
+            seed_path_setting=settings.seed_path or "(default)",
         )
 
         llm = create_language_model(settings)

@@ -39,6 +39,12 @@ class Settings(BaseSettings):
     # Static site root — Docker sets this to /app at deploy.
     static_dir: str = "."
 
+    # FAQ seed file path. When empty, faq_import falls back to a
+    # repo-relative path that works for editable installs (pip install
+    # -e). Docker sets this to the absolute container path so the
+    # seeder works after a non-editable wheel install.
+    seed_path: str = ""
+
     # CORS — empty means same-origin only (default for prod).
     cors_origins: List[str] = []
 
